@@ -1,2 +1,2 @@
 # My First Git Project 
-Edited on GitHUb.
+Edited  GitHUb.
