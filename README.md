@@ -1,3 +1,2 @@
-# My First Git Project
-
-Add a new line.
+# My First Git Project 
+Edited on GitHUb.
